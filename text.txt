@@ -1,0 +1,1 @@
+Moving from Vanilla Javascript to React is sort of like learning to do weighted PullUps after mastering normal PullUps. Or learning to do declined PushUps after mastering normal PushUps. I enjoyed building this and learning a new method to reach previously met goal.
